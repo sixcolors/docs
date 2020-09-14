@@ -6,6 +6,10 @@ description: >-
 
 # 📖 Getting started
 
+{% hint style="warning" %}
+These docs are for **Fiber v1**, you can view the **v2** documentation [**here**](https://docs.gofiber.io).
+{% endhint %}
+
 **Fiber** is an [Express](https://github.com/expressjs/express) inspired **web framework** build on top of [Fasthttp](https://github.com/valyala/fasthttp), the **fastest** HTTP engine for [Go](https://golang.org/doc/). Designed to **ease** things up for **fast** development with **zero memory allocation** and **performance** in mind.
 
 ## Installation
