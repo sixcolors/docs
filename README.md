@@ -9,7 +9,8 @@ description: >-
 **Fiber** is an [Express](https://github.com/expressjs/express) inspired **web framework** build on top of [Fasthttp](https://github.com/valyala/fasthttp), the **fastest** HTTP engine for [Go](https://golang.org/doc/). Designed to **ease** things up for **fast** development with **zero memory allocation** and **performance** in mind.
 
 {% hint style="warning" %}
-These docs are for **Fiber v1**, you can view the **v2** documentation [**here**](https://docs.gofiber.io).
+These docs are for the old **Fiber v1**, you can view the **v2** docs [**here**](https://docs.gofiber.io).   
+**v2.0.0** was released on **September 15th, 2020**, and contains numerous changes regarding performance and API design.
 {% endhint %}
 
 ## Installation
